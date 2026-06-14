@@ -2,13 +2,13 @@ The Automatic Target Detection and Tracking System is an intelligent surveillanc
 
 This project aims to improve monitoring efficiency, situational awareness, and response time in dynamic environments where continuous surveillance is required. By accurately detecting the presence and movement of objects, the system supports reliable monitoring and decision-making processes.
 
-Applications
-Defense and military surveillance
-Border security and protection
-Industrial monitoring systems
-Traffic management
-Disaster response operations
-Smart security and surveillance infrastructure
-Publication
+Applications:
+-Defense and military surveillance
+-Border security and protection
+-Industrial monitoring systems
+-Traffic management
+-Disaster response operations
+-Smart security and surveillance infrastructure
 
+Publication:
 This work was published in the International Journal of Progressive Research in Engineering Management and Science (IJPREMS).
